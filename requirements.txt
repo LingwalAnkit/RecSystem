@@ -4,3 +4,4 @@ numpy
 dataset
 joblib
 flask
+flask_cors
